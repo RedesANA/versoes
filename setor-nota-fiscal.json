@@ -1,10 +1,10 @@
 {
   "programa": "Setor Nota Fiscal",
-  "versao": "1.83.0",
-  "publicada_em": "2026-11-13",
+  "versao": "1.84.0",
+  "publicada_em": "2026-11-17",
   "instalador": {
-    "url": "https://github.com/RedesANA/versoes/releases/download/v1.83.0/Instalar-Setor-Nota-Fiscal-1.83.0.exe",
-    "sha256": "f96a1698f6a97b42e859423a613471ab7a51cdc1ec6a45609d46c95c8e7b4841",
-    "tamanho": 91791878
+    "url": "https://github.com/RedesANA/versoes/releases/download/v1.84.0/Instalar-Setor-Nota-Fiscal-1.84.0.exe",
+    "sha256": "01c1b2698e6c6410c12aae3fc625c701aa53233db1a5dcca0afcba6b16d0e836",
+    "tamanho": 91795456
   }
 }
